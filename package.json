@@ -1,0 +1,9 @@
+{
+	"name": "pi-exit",
+	"version": "0.1.0",
+	"description": "Pi extension: /exit as an alias of the built-in /quit",
+	"keywords": ["pi-package", "pi", "pi-extension"],
+	"peerDependencies": {
+		"@earendil-works/pi-coding-agent": "*"
+	}
+}
